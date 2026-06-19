@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="12" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-15T11:20:31 IST" name="s1" finished-at="2026-06-15T11:20:51 IST" duration-ms="20111">
+    <groups>
+    </groups>
+    <test started-at="2026-06-15T11:20:31 IST" name="t1" finished-at="2026-06-15T11:20:47 IST" duration-ms="16178">
+      <class name="testcase.TS1">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testcase.TS1@1caa0244]" started-at="2026-06-15T11:20:31 IST" name="setUp" finished-at="2026-06-15T11:20:35 IST" duration-ms="4170" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_01(java.lang.String,java.lang.String)[pri:0, instance:testcase.TS1@1caa0244]" started-at="2026-06-15T11:20:37 IST" name="TC_01" data-provider="a" finished-at="2026-06-15T11:20:42 IST" duration-ms="4211" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method signature="TC_01(java.lang.String,java.lang.String)[pri:0, instance:testcase.TS1@1caa0244]" started-at="2026-06-15T11:20:42 IST" name="TC_01" data-provider="a" finished-at="2026-06-15T11:20:44 IST" duration-ms="2025" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xzy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method signature="TC_01(java.lang.String,java.lang.String)[pri:0, instance:testcase.TS1@1caa0244]" started-at="2026-06-15T11:20:44 IST" name="TC_01" data-provider="a" finished-at="2026-06-15T11:20:45 IST" duration-ms="1692" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sai]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[deep]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method signature="TC_01(java.lang.String,java.lang.String)[pri:0, instance:testcase.TS1@1caa0244]" started-at="2026-06-15T11:20:45 IST" name="TC_01" data-provider="a" finished-at="2026-06-15T11:20:47 IST" duration-ms="1644" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[deep]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[haran]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method signature="tc_3()[pri:0, instance:testcase.TS1@1caa0244]" started-at="2026-06-15T11:20:47 IST" name="tc_3" finished-at="2026-06-15T11:20:47 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_3 -->
+      </class> <!-- testcase.TS1 -->
+    </test> <!-- t1 -->
+    <test started-at="2026-06-15T11:20:31 IST" name="t2" finished-at="2026-06-15T11:20:51 IST" duration-ms="20111">
+      <class name="testcase.TS1">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testcase.TS1@1a245833]" started-at="2026-06-15T11:20:31 IST" name="setUp" finished-at="2026-06-15T11:20:35 IST" duration-ms="4169" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC_01(java.lang.String,java.lang.String)[pri:0, instance:testcase.TS1@1a245833]" started-at="2026-06-15T11:20:38 IST" name="TC_01" data-provider="a" finished-at="2026-06-15T11:20:42 IST" duration-ms="4465" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method signature="TC_01(java.lang.String,java.lang.String)[pri:0, instance:testcase.TS1@1a245833]" started-at="2026-06-15T11:20:42 IST" name="TC_01" data-provider="a" finished-at="2026-06-15T11:20:45 IST" duration-ms="3037" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xzy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method signature="TC_01(java.lang.String,java.lang.String)[pri:0, instance:testcase.TS1@1a245833]" started-at="2026-06-15T11:20:45 IST" name="TC_01" data-provider="a" finished-at="2026-06-15T11:20:48 IST" duration-ms="2639" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sai]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[deep]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method signature="TC_01(java.lang.String,java.lang.String)[pri:0, instance:testcase.TS1@1a245833]" started-at="2026-06-15T11:20:48 IST" name="TC_01" data-provider="a" finished-at="2026-06-15T11:20:51 IST" duration-ms="3156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[deep]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[haran]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method signature="tc_3()[pri:0, instance:testcase.TS1@1a245833]" started-at="2026-06-15T11:20:51 IST" name="tc_3" finished-at="2026-06-15T11:20:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_3 -->
+      </class> <!-- testcase.TS1 -->
+    </test> <!-- t2 -->
+  </suite> <!-- s1 -->
+</testng-results>
